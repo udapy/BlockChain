@@ -4,7 +4,7 @@ public class Main {
 
         public static void main(String[] args) {
 
-        String[] genesisTransactions = {"alice sent bob 1000 bitcoin","oscar sent 10 bitcoins to bob"};
+        String[] genesisTransactions = {"alice sent bob 1000 bitcoin","oscar sent 101 bitcoins to bob"};
         Block genesisBlock = new Block(0, genesisTransactions);
 
         String[] block2Transactions = {"charlie sent 2000 bitcoin to bob", "alice sent 10 bitcoin to T-mobile"};
