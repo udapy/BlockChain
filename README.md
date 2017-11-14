@@ -1,3 +1,4 @@
 # Block Chain
-# Basic block chain idea implementation
+<hr>
+<i>Basic block chain idea implementation</i>
 Each block will have their own hash.
